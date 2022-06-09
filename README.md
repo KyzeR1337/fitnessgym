@@ -1,10 +1,30 @@
-# projeto
-teste integrado vs github
+<div align="center">
+  
+# Estudos-HTML-e-CSS
+  
+<h4>Repositório para a disciplina WebDesign e Comunicação Multimédia sobre o nosso ginásio</h4>
+  
+<p ><img  src="https://wallpapercave.com/wp/wp2742499.jpg" width="60%" alt="imagem" >
+  
+<p>
+<!-- Image Shields -->
+<img  alt="Language Top"  src="https://img.shields.io/github/languages/top/RickFerreira/Estudos-HTML-e-CSS">
+<img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/RickFerreira/Estudos-HTML-e-CSS">
+<img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/RickFerreira/Estudos-HTML-e-CSS">
+<img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/RickFerreira/Estudos-HTML-e-CSS">
+</a>
+</p>
 
-Repositório para o projeto da disciplina de WDCM
+  
+### 👨🏻‍💻 Technologies
 
-Incluir o nome dos autores, tema e historia da criação do projeto
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="imagem" width="45"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="imagem" width="45"> &nbsp;
 
-João Soares e Rita Silvério
 
-Tema: Ginásio
+
+### 👻 Results
+
+<a href="https://rickferreira.github.io/Estudos-HTML-e-CSS/index.html">-----------------Vizualizar como ficou o site-----------------</a>
+
+</div>

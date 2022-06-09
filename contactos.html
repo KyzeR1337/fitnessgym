@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Contactos - Fitness Gym</title>
+
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="contactos.css">
+</head>
+
+<body>
+    <header>
+        <div class="caixa">
+            <h1><img src="logo.png"></h1>
+
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="produtos.html">Planos</a></li>
+                    <li><a href="contactos.html">Contactos</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <form>
+            <label for="nomesobrenome">Primeiro e último nome</label>
+            <input type="text" id="nomesobrenome" class="input-padrao" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" class="input-padrao" required placeholder="seuemail@dominio.com">
+
+            <label for="Telemóvel">Telemóvel</label>
+            <input type="tel" id="Telemóvel" class="input-padrao" required placeholder="+(351) ">
+
+            <label for="mensagem">Mensagem</label>
+            <textarea id="mensagem" cols="30" rows="10" class="input-padrao" required></textarea>
+
+            <div>
+                <p>Como prefere ser contactado?</p>
+
+                <label for="radio-Email"><input type="radio" name="contato" id="radio-email" value="email">Email</label>
+
+
+                <label for="radio-WhatsApp"><input type="radio" name="contato" id="radio-telemóvel" value="Telemóvel">WhatsApp</label>
+
+
+            </div>
+
+            <p>Que horário gostaria de treinar?</p>
+            <select class="input-padrao">
+                <option value="">18:30</option>
+                <option value="">19:00</option>
+                <option value="">20:30</option>
+                <option value="">21:00</option>
+            </select>
+
+            <input type="submit" class="enviar">
+        </form>
+    </main>
+
+    <footer>
+        <img src="LOGORICK_Branco.png">
+        <p class="copyright">&copy; Copyright Fitness Gym - 2022</p>
+    </footer>
+</body>
+
+</html>
