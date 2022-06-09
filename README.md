@@ -7,4 +7,4 @@ Incluir o nome dos autores, tema e historia da criação do projeto
 
 João Soares e Rita Silvério
 
-Tema: Nfts
+Tema: Ginásio
